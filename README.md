@@ -7,5 +7,5 @@ and then run\
 ./gradlew desktop:dist\
 the jar should be in\
 desktop/build/libs\
-and you can run it\
+and you can run it
 
